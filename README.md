@@ -6,6 +6,7 @@ An example Flutter weather app using the [OpenWeatherMap API](https://openweathe
 
 ## Perjantai Pöhinä Task list
 
+- [ ] Setup API key (`api_keys.default.dart`)
 - [ ] Run the app in browser (`flutter run -d chrome`)
 - [ ] Make search button functional (`city_search_box.dart`)
 - [ ] Render date, icon and temperature on the weekly view (`weekly_weather.dart`)

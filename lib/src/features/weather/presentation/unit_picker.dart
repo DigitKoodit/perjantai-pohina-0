@@ -14,6 +14,10 @@ class UnitPicker extends ConsumerWidget {
 
     // TODO(anyone): Implement a DropdownButton to select a temperature unit and update temperatureUnitProvider based on the user input
     // Hint: You can use DropdownButton widget from Flutter SDK
-    return const Placeholder();
+    return SizedBox(
+      width: 100,
+      height: 50,
+      child: const Placeholder(),
+    );
   }
 }
