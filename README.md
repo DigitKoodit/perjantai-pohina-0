@@ -6,8 +6,6 @@ An example Flutter weather app using the [OpenWeatherMap API](https://openweathe
 
 ## Perjantai Pöhinä Task list
 
-API KEY: 45940c4061d90d51cb4867567bb2bdc4
-
 - [ ] Setup API key (`api_keys.default.dart`)
 - [ ] Run the app in browser (`flutter run -d chrome`)
 - [ ] Make search button functional (`city_search_box.dart`)
